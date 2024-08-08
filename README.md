@@ -1,4 +1,4 @@
-# ⚡ IITSoC'23 Electrical Project
+# ⚡ IITSoC'23 Electronics Project
 
 ## Overview
 
